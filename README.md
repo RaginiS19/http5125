@@ -10,8 +10,8 @@ This repository serves as a learning resource for backend web development. It in
 ## 🌐 Live Preview
 [Click here](https://your-website-link.com) to see the live version of the project.
 
-## 🖼️ Screenshot
-![Backend Development](Images/Backend%20Development.jpeg)x
+## 🖼️ Image
+![Backend Development](Images/Backend%20Development.jpeg)
 
 ## ⚠️ Important Note
 > Ensure you have **Node.js**, **React**, and **MongoDB** installed before running the project.
